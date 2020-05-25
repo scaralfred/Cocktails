@@ -2,7 +2,7 @@
 Learn how to make more than 1000 different cocktails easily.
 
 
-<img src="https://lh3.googleusercontent.com/V3IzsZB-U4qqECROhqAMC3RCER6o807PgRJfKnh533AUSy9TbQNG5_qv3eJW5gYwuneW=s180-rw" align="left" width="300" >
+<img src="https://lh3.googleusercontent.com/V3IzsZB-U4qqECROhqAMC3RCER6o807PgRJfKnh533AUSy9TbQNG5_qv3eJW5gYwuneW=s180-rw" align="left" width="250" >
 
 App Store -> https://itunes.apple.com/app/id1514997274
 
@@ -48,4 +48,4 @@ Are you ready to become a cocktail recipe master of your home or cocktail bar? A
 
 Do you have any questions or feedback?
 
-Contact: dogbreeds.feedback@gmail.com
+Contact: cocktails.feedback@gmail.com
