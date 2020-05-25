@@ -1,4 +1,5 @@
-# Cocktails App – Cocktail List, Recipes & Academy (Available on the App Store & Google Play Store)
+# Cocktails App – Cocktail List, Recipes & Academy 
+# (Available on the App Store & Google Play Store)
 Learn how to make more than 1000 different cocktails easily.
 
 
