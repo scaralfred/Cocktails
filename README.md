@@ -1,12 +1,12 @@
 # Cocktails App – Cocktail List, Recipes & Academy
-Learn how to make more than 1000 different cocktails easily.
+#### Learn how to make more than 1000 different cocktails easily.
 
 
 <img src="https://lh3.googleusercontent.com/V3IzsZB-U4qqECROhqAMC3RCER6o807PgRJfKnh533AUSy9TbQNG5_qv3eJW5gYwuneW=s300-rw" align="left" width="300" >
 
-App Store -> https://itunes.apple.com/app/id1514997274
+#### App Store -> https://itunes.apple.com/app/id1514997274
 
-Goole Play Store => https://play.google.com/store/apps/details?id=com.cocktails.app
+#### Goole Play Store => https://play.google.com/store/apps/details?id=com.cocktails.app
 
 Do you love to surprise your friends and family with your best cocktails?
 Learn the art of cocktail making from the comfort of your space by using one of the best cocktail database apps available online.
