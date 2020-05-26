@@ -22,26 +22,26 @@ Do you want to try out a new cocktail recipe everyday? Now is your time to fulfi
 Check the cocktail builder details such as alcohol level, ingredients, ideal time, style, calories number, drinkware etc. used in its making. Use the search bar filters to find a cocktail of your choice by using this wonderful sorting mechanism .
 
 #### How to use Cocktails App
-• Download and launch the cocktail app
-• Use the search bar to find cocktail recipes and techniques
-• Apply different search filters to find the best cocktails
-• Tap on each of the cocktail recipes to view the cocktail ingredients
-• Add ingredients to your shopping list
+• Download and launch the cocktail app<br/>
+• Use the search bar to find cocktail recipes and techniques<br/>
+• Apply different search filters to find the best cocktails<br/>
+• Tap on each of the cocktail recipes to view the cocktail ingredients<br/>
+• Add ingredients to your shopping list<br/>
 • Go to suggested section to find top trending ingredients and their uses
 
 #### Features of Cocktails App
-• Simple and easy cocktail builder UI/UX
-• Find the best collection of cocktail recipes from large cocktail database
-Collection of cocktail bar recipes officially recognised by the IBA (International Bartender Association)
-• Make your cocktail drink by following IBA (International Bartender Association) recommendations
-Make best cocktail drinks as if they are straight from cocktail bar
-• Learn more information on the cocktail glassware, barware, equipment and techniques through Cocktail Academy
-• Find alcoholic, non-alcoholic and garnishing ingredients for cocktails
-• Interactive menu bar featuring cocktails menu, shopping list and suggestions for new ingredients
-• Find out the details such as sweetness level, alcohol level, and preparation instructions to make the best cocktails
-• Smooth and easy navigation to find the desired information
-• Collection of cocktail bar recipes of more than 1000 popular cocktail drinks
-• Choose From three different layouts to suit your experience
+• Simple and easy cocktail builder UI/UX<br/>
+• Find the best collection of cocktail recipes from large cocktail database<br/>
+• Collection of cocktail bar recipes officially recognised by the IBA (International Bartender Association)<br/>
+• Make your cocktail drink by following IBA (International Bartender Association) recommendations<br/>
+• Make best cocktail drinks as if they are straight from cocktail bar<br/>
+• Learn more information on the cocktail glassware, barware, equipment and techniques through Cocktail Academy<br/>
+• Find alcoholic, non-alcoholic and garnishing ingredients for cocktails<br/>
+• Interactive menu bar featuring cocktails menu, shopping list and suggestions for new ingredients<br/>
+• Find out the details such as sweetness level, alcohol level, and preparation instructions to make the best cocktails<br/>
+• Smooth and easy navigation to find the desired information<br/>
+• Collection of cocktail bar recipes of more than 1000 popular cocktail drinks<br/>
+• Choose From three different layouts to suit your experience<br/>
 
 Are you ready to become a cocktail recipe master of your home or cocktail bar? 
 Add spice to your life and life to the parties by learning how to make a variety of the best cocktails in the world. Download and use Cocktails App – Cocktail List, Recipes & Academy today!
