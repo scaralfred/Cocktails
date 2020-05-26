@@ -1,5 +1,5 @@
 # Cocktails App – Cocktail List, Recipes & Academy
-#### Learn how to make more than 1000 different cocktails easily.
+Learn how to make more than 1000 different cocktails easily.
 
 
 <img src="https://lh3.googleusercontent.com/V3IzsZB-U4qqECROhqAMC3RCER6o807PgRJfKnh533AUSy9TbQNG5_qv3eJW5gYwuneW=s300-rw" align="left" width="300" >
